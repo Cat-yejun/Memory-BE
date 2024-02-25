@@ -2,7 +2,7 @@
 
 ![Memory Beat](image/icon.jpg)
 
-- [frontend link](https://github.com/GDSC-MemoryBeat/Memory-FE)
+- [frontend link](https://github.com/GDSC-MemoryBeat/MemoryBeat-FE)
 
 ## 🖐️ Preventing Dementia With Hand Exercise
 
